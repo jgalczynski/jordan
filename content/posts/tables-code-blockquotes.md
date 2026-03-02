@@ -9,7 +9,7 @@ image: "https://picsum.photos/seed/scholarly/1920/1080"
 
 Digital Humanities scholarship often sits at the intersection of humanistic interpretation and computational precision. This creates a unique set of publishing requirements: the ability to typeset prose and footnotes _alongside_ data tables, code samples, and archival quotations — often in the same document.
 
-Markdown handles all of it natively.
+Markdown handles all of this natively.
 
 ---
 
