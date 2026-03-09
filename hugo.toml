@@ -1,6 +1,6 @@
-baseURL = 'https://jkardosh.github.io/dh-illuminate-hugo-theme/'
+baseURL = 'https://jgalczynski.github.io/gh-illuminate-hugo-theme
 languageCode = 'en-us'
-title = 'DH Illuminate'
+title = 'Jordan's Site'
 theme = 'dh-illuminate'
 
 [pagination]
